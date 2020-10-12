@@ -1,0 +1,15 @@
+{% extends 'myapp/base.html' %}
+
+{% block content %}
+<form action="" method="POST">
+    {% csrf_token %}
+    {{form.as_p}}
+    <p>Are you sure want to delete "{{object}}"?</p>
+    <a href="{% url 'home' %}"><p>Not</p></a>
+    <input type="submit" value="conform">
+</form>
+
+
+</div>
+
+{% endblock%}

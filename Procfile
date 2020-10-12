@@ -1,0 +1,1 @@
+web: gunicorn Rapist.wsgi --log-file -
