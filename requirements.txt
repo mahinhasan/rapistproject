@@ -31,7 +31,6 @@ decorator==4.4.2
 deepface==0.0.38
 defusedxml==0.6.0
 distro==1.4.0
-distro-info===0.23ubuntu1
 dj-database-url==0.5.0
 dj-static==0.0.6
 Django==3.0.7
