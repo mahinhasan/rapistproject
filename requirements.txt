@@ -158,7 +158,6 @@ protobuf==3.12.2
 psutil==5.7.0
 ptyprocess==0.6.0
 py-radix==0.10.0
-pyalsa==1.1.6
 pyarrow==1.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
