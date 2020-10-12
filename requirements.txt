@@ -187,7 +187,6 @@ pyshp==2.1.0
 pysmbc==1.0.15.6
 PySocks==1.7.1
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
 python-dotenv==0.14.0
 python-http-client==3.2.7
 python-sane==2.8.3
