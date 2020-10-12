@@ -24,7 +24,6 @@ colorama==0.4.3
 conda==4.3.16
 cryptography==2.8
 cssselect==1.1.0
-cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.14
 dbus-python==1.2.16
